@@ -36,7 +36,7 @@ printf "      \e[33;1m    | |/ _` | '__\ \ / / / __| '_ \| '_ \| / __| '_ \ / _ 
 printf "      \e[32;1m    | | (_| | |   \ V /| \__ \ |_) | | | | \__ \ | | |  __/ |\e[0m\n"
 printf "      \e[32;1m   _/ |\__,_|_|    \_/ |_|___/ .__/|_| |_|_|___/_| |_|\___|_|\e[0m\n"
 printf "      \e[32;1m  |__/                       |_|\e[0m\n"
-printf "      
+printf " /n"     
 
 
 printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;ÏM TØØL ÇR3ÆT3D BY JÆRIS AKA DIBYA ACHARYA\e[0m\n"
