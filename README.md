@@ -22,7 +22,7 @@
  apt update && apt upgrade
  apt install git   
  apt install python2
- git clone https://github.com/TechnicalMujeeb/Termux-Lazyscript.git
+ git clone https://github.com/dibyaacharya/JARVISPHISHER
  cd Termux-Lazyscript
  chmod +x *
  sh setup.sh
