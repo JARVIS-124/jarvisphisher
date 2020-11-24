@@ -3,8 +3,8 @@
 # 𝙋𝙃𝙄𝙎𝙃𝙄𝙉𝙂 𝙏𝙊𝙊𝙇𝙎 𝙁𝙊𝙍 𝙏𝙀𝙍𝙈𝙐𝙓
 
 
-![cb](https://cdn.discordapp.com/attachments/760031847992000512/773000807875870750/Screenshot_2020-11-03-07-18-55-05_84d3000e3f4017145260f7618db1d683.jpg)
-![cb](https://cdn.discordapp.com/attachments/760031847992000512/773000808135393300/Screenshot_2020-11-03-07-18-10-81_84d3000e3f4017145260f7618db1d683.jpg)
+
+
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
