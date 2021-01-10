@@ -39,7 +39,7 @@ printf "      \e[32;1m  |__/                       |_|\e[0m\n"
 printf " /n"     
 
 
-printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;ÏM TØØL ÇR3ÆT3D BY JÆRIS \e[0m\n"
+printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33; \e[0m\n"
 printf "\n"
 
 }
