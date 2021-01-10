@@ -30,7 +30,7 @@ apt update
 apt install git curl php wget -y
 git clone https://github.com/JARVIS-124/JARVISPHISHER.git
 cd JARVISPHISHER
-./JARVISPHISHER.sh
+./jarvisphisher.sh
 
 
 
